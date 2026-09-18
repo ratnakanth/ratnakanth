@@ -18,50 +18,83 @@
 
 Senior Full Stack PHP Developer with 17+ years architecting and delivering scalable enterprise applications, RESTful APIs and eCommerce platforms across Laravel, Magento 2 and WordPress. Proven track record improving system performance, security and deployment velocity in regulated, multi-country environments. Currently pursuing doctoral research in AI-driven accessibility systems — bringing applied AI fluency to production engineering, not just tool familiarity.
 
-```typescript
-const ratnakanth = {
-  title: "Senior PHP Full Stack Engineer",
-  currentRole: "Full Stack Engineer @ Merck & Co., Inc (MSD), Cambridge — 2021 to present",
-  experience: "17+ years enterprise web engineering",
-  location: "Hertfordshire, UK",
-  stack: {
-    languages:   ["PHP 7.4 & 8+ (OOP/MVC)", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
-    frameworks:  ["Laravel", "Zend Framework", "Magento 2", "WordPress", "jQuery", "React"],
-    apis:        ["RESTful APIs", "GraphQL", "OAuth 2.0 / JWT", "Third-Party Integration", "Microservices"],
-    databases:   ["MySQL (query optimisation, indexing, tuning)", "PostgreSQL", "SQLite", "Redis / Memcached", "NoSQL awareness"],
-    quality:     ["Unit testing", "Automated testing", "Code review", "SOLID", "OWASP secure coding"],
-    devops:      ["Git (GitHub/GitLab workflows)", "Docker (WSL/Linux)", "CI/CD pipelines", "AWS", "Amazon S3", "LAMP"],
-    delivery:    ["Scrum ceremonies", "Cross-functional collaboration with QA, BAs & DevOps"],
-  },
-  launchedProjects: [
-    {
-      name: "AnyVacancy",
-      url:  "https://anyvacancy.uk/",
-      what: "Connecting businesses with qualified local shift workers instantly",
-      features: ["DBS validation", "Yoti right-to-work checks", "Automated UK tax & NI calculations"],
-    },
-  ],
-  education: [
-    "MSc Technology & E-commerce — University of East London",
-    "MA in Education (Higher Education)",
-    "BSc (Hons) Technology & E-commerce — University of East London",
-    "Doctoral research — AI-driven accessibility systems (in progress)",
-  ],
-  certifications: [
-    "BCS (British Computer Society) Professional Graduate",
-    "Google Certified — Digital Marketing",
-    "Certificate in PHP (Distinction)",
-    "Certificate in MySQL (Merit)",
-    "Sun Certified Java Programmer Training Program",
-    "Database Management Systems — Oracle 8i",
-    "Data Communication & Computer Networking — University of Colombo",
-  ],
-  memberships: ["BCS — British Computer Society", "IESL — Institution of Engineers Sri Lanka"],
-  awards: ["Inspiring Creativity Award — Fujitsu Laboratories of Europe, QEII Conference Centre, Westminster"],
-  status: "Building and scaling AnyVacancy · PhD research in AI & accessibility",
-  openTo: ["Laravel / PHP engineering", "API & microservices integration", "Magento 2 eCommerce work"],
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 At a Glance
+
+| | |
+|---|---|
+| 🧑‍💻 **Title** | Senior PHP Full Stack Engineer |
+| 🏢 **Current Role** | Full Stack Engineer @ Merck & Co., Inc (MSD), Cambridge — 2021 to present |
+| ⏳ **Experience** | 17+ years enterprise web engineering |
+| 📍 **Location** | Hertfordshire, UK |
+| 🔭 **Status** | Building and scaling AnyVacancy · PhD research in AI & accessibility |
+| 💬 **Open To** | Laravel / PHP engineering · API & microservices integration · Magento 2 eCommerce work |
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+- 🎓 **Doctoral research** — AI-driven accessibility systems *(in progress)*
+- 🎓 **MSc Technology & E-commerce** — University of East London
+- 🎓 **MA in Education (Higher Education)**
+- 🎓 **BSc (Hons) Technology & E-commerce** — University of East London
+
+### 🏛️ Memberships
+
+![BCS](https://img.shields.io/badge/BCS-British_Computer_Society-7dd3fc?style=flat-square&labelColor=0d1117)
+![IESL](https://img.shields.io/badge/IESL-Institution_of_Engineers_Sri_Lanka-7dd3fc?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+### 🧰 Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP_7.4_%2F_8+_(OOP%2FMVC)-7dd3fc?style=flat-square&logo=php&logoColor=0d1117) ![JS](https://img.shields.io/badge/JavaScript_ES6+-7dd3fc?style=flat-square&logo=javascript&logoColor=0d1117) ![TS](https://img.shields.io/badge/TypeScript-7dd3fc?style=flat-square&logo=typescript&logoColor=0d1117) ![HTML5](https://img.shields.io/badge/HTML5-7dd3fc?style=flat-square&logo=html5&logoColor=0d1117) ![CSS3](https://img.shields.io/badge/CSS3-7dd3fc?style=flat-square&logo=css3&logoColor=0d1117) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-7dd3fc?style=flat-square&logo=laravel&logoColor=0d1117) ![Zend](https://img.shields.io/badge/Zend_Framework-7dd3fc?style=flat-square&logo=php&logoColor=0d1117) ![Magento](https://img.shields.io/badge/Magento_2-7dd3fc?style=flat-square&logo=magento&logoColor=0d1117) ![WordPress](https://img.shields.io/badge/WordPress-7dd3fc?style=flat-square&logo=wordpress&logoColor=0d1117) ![jQuery](https://img.shields.io/badge/jQuery-7dd3fc?style=flat-square&logo=jquery&logoColor=0d1117) ![React](https://img.shields.io/badge/React-7dd3fc?style=flat-square&logo=react&logoColor=0d1117) |
+| **APIs** | ![REST](https://img.shields.io/badge/RESTful_APIs-7dd3fc?style=flat-square&labelColor=0d1117) ![GraphQL](https://img.shields.io/badge/GraphQL-7dd3fc?style=flat-square&logo=graphql&logoColor=0d1117) ![OAuth](https://img.shields.io/badge/OAuth_2.0_%2F_JWT-7dd3fc?style=flat-square&logo=jsonwebtokens&logoColor=0d1117) ![3P](https://img.shields.io/badge/Third--Party_Integration-7dd3fc?style=flat-square&labelColor=0d1117) ![Micro](https://img.shields.io/badge/Microservices-7dd3fc?style=flat-square&labelColor=0d1117) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL_(optimisation%2C_indexing%2C_tuning)-7dd3fc?style=flat-square&logo=mysql&logoColor=0d1117) ![Postgres](https://img.shields.io/badge/PostgreSQL-7dd3fc?style=flat-square&logo=postgresql&logoColor=0d1117) ![SQLite](https://img.shields.io/badge/SQLite-7dd3fc?style=flat-square&logo=sqlite&logoColor=0d1117) ![Redis](https://img.shields.io/badge/Redis_%2F_Memcached-7dd3fc?style=flat-square&logo=redis&logoColor=0d1117) ![NoSQL](https://img.shields.io/badge/NoSQL_awareness-7dd3fc?style=flat-square&logo=mongodb&logoColor=0d1117) |
+| **Quality** | ![Unit](https://img.shields.io/badge/Unit_Testing-7dd3fc?style=flat-square&logo=phpunit&logoColor=0d1117) ![Auto](https://img.shields.io/badge/Automated_Testing-7dd3fc?style=flat-square&labelColor=0d1117) ![Review](https://img.shields.io/badge/Code_Review-7dd3fc?style=flat-square&labelColor=0d1117) ![SOLID](https://img.shields.io/badge/SOLID-7dd3fc?style=flat-square&labelColor=0d1117) ![OWASP](https://img.shields.io/badge/OWASP_Secure_Coding-7dd3fc?style=flat-square&logo=owasp&logoColor=0d1117) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git_(GitHub%2FGitLab_workflows)-7dd3fc?style=flat-square&logo=git&logoColor=0d1117) ![Docker](https://img.shields.io/badge/Docker_(WSL%2FLinux)-7dd3fc?style=flat-square&logo=docker&logoColor=0d1117) ![CI](https://img.shields.io/badge/CI%2FCD_Pipelines-7dd3fc?style=flat-square&logo=githubactions&logoColor=0d1117) ![AWS](https://img.shields.io/badge/AWS-7dd3fc?style=flat-square&logo=amazonaws&logoColor=0d1117) ![S3](https://img.shields.io/badge/Amazon_S3-7dd3fc?style=flat-square&logo=amazons3&logoColor=0d1117) ![LAMP](https://img.shields.io/badge/LAMP-7dd3fc?style=flat-square&logo=linux&logoColor=0d1117) |
+| **Delivery** | ![Scrum](https://img.shields.io/badge/Scrum_Ceremonies-7dd3fc?style=flat-square&logo=jira&logoColor=0d1117) ![XF](https://img.shields.io/badge/Cross--functional_with_QA_%C2%B7_BAs_%C2%B7_DevOps-7dd3fc?style=flat-square&labelColor=0d1117) |
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+- ✅ BCS (British Computer Society) Professional Graduate
+- ✅ Google Certified — Digital Marketing
+- ✅ Certificate in PHP *(Distinction)*
+- ✅ Certificate in MySQL *(Merit)*
+- ✅ Sun Certified Java Programmer Training Program
+- ✅ Database Management Systems — Oracle 8i
+- ✅ Data Communication & Computer Networking — University of Colombo
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Awards
+
+- 🥇 **Inspiring Creativity Award** — Fujitsu Laboratories of Europe, QEII Conference Centre, Westminster
+
+### 🚀 Launched
+
+- **[AnyVacancy](https://anyvacancy.uk/)** — Connecting businesses with qualified local shift workers instantly
+  - DBS validation
+  - Yoti right-to-work checks
+  - Automated UK tax & NI calculations
+
+</td>
+</tr>
+</table>
 
 ---
 
