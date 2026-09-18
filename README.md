@@ -80,7 +80,8 @@ Senior Full Stack PHP Developer with 17+ years architecting and delivering scala
 
 ### AnyVacancy
 
-[![AnyVacancy](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=anyvacancy&show_owner=true&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/anyvacancy)
+[![AnyVacancy](https://img.shields.io/badge/AnyVacancy-Live_Platform-7dd3fc?style=for-the-badge&logo=laravel&logoColor=0d1117)](https://anyvacancy.uk/)
+![Private Repo](https://img.shields.io/badge/Source-Private-0d1117?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0d1117&color=0d1117)
 
 Connecting businesses with qualified local shift workers instantly. Built-in DBS validation, Yoti right-to-work checks, and fully automated UK tax / National Insurance calculations.
 
@@ -93,7 +94,18 @@ Connecting businesses with qualified local shift workers instantly. Built-in DBS
 | Database | MySQL |
 | Infrastructure | Docker, AWS, CI/CD |
 
-🔗 **Live:** [anyvacancy.uk](https://anyvacancy.uk/) &nbsp;·&nbsp; 💻 **Code:** [github.com/ratnakanth/anyvacancy](https://github.com/ratnakanth/anyvacancy)
+🔗 **Live:** [anyvacancy.uk](https://anyvacancy.uk/) &nbsp;·&nbsp; 💻 **Code:** private repository
+
+### More Repositories
+
+<div align="center">
+
+[![Magento2SEO](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=Magento2SEO&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/Magento2SEO)
+[![One-page Checkout](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=ratna-One-page-Checkout&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/ratna-One-page-Checkout)
+[![M2 Recently Viewed](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=M2-Recently-Viewed&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/M2-Recently-Viewed)
+[![CRM](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=crm&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/crm)
+
+</div>
 
 ---
 
