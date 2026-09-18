@@ -8,7 +8,7 @@
 
 <!-- Counters -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ratnakanth&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ratnakanth?style=for-the-badge&color=7dd3fc&labelColor=0d1117&logo=github&logoColor=white)
+[![Followers](https://img.shields.io/badge/Followers-323-7dd3fc?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/ratnakanth?tab=followers)
 
 </div>
 
@@ -17,10 +17,6 @@
 ## 🧑‍💻 Who I Am
 
 Senior Full Stack PHP Developer with 17+ years architecting and delivering scalable enterprise applications, RESTful APIs and eCommerce platforms across Laravel, Magento 2 and WordPress. Proven track record improving system performance, security and deployment velocity in regulated, multi-country environments. Currently pursuing doctoral research in AI-driven accessibility systems — bringing applied AI fluency to production engineering, not just tool familiarity.
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 👤 At a Glance
 
@@ -32,9 +28,6 @@ Senior Full Stack PHP Developer with 17+ years architecting and delivering scala
 | 📍 **Location** | Hertfordshire, UK |
 | 🔭 **Status** | Building and scaling AnyVacancy · PhD research in AI & accessibility |
 | 💬 **Open To** | Laravel / PHP engineering · API & microservices integration · Magento 2 eCommerce work |
-
-</td>
-<td width="50%" valign="top">
 
 ### 🎓 Education
 
@@ -48,10 +41,6 @@ Senior Full Stack PHP Developer with 17+ years architecting and delivering scala
 ![BCS](https://img.shields.io/badge/BCS-British_Computer_Society-7dd3fc?style=flat-square&labelColor=0d1117)
 ![IESL](https://img.shields.io/badge/IESL-Institution_of_Engineers_Sri_Lanka-7dd3fc?style=flat-square&labelColor=0d1117)
 
-</td>
-</tr>
-</table>
-
 ### 🧰 Stack
 
 | Category | Technologies |
@@ -64,10 +53,6 @@ Senior Full Stack PHP Developer with 17+ years architecting and delivering scala
 | **DevOps** | ![Git](https://img.shields.io/badge/Git_(GitHub%2FGitLab_workflows)-7dd3fc?style=flat-square&logo=git&logoColor=0d1117) ![Docker](https://img.shields.io/badge/Docker_(WSL%2FLinux)-7dd3fc?style=flat-square&logo=docker&logoColor=0d1117) ![CI](https://img.shields.io/badge/CI%2FCD_Pipelines-7dd3fc?style=flat-square&logo=githubactions&logoColor=0d1117) ![AWS](https://img.shields.io/badge/AWS-7dd3fc?style=flat-square&logo=amazonaws&logoColor=0d1117) ![S3](https://img.shields.io/badge/Amazon_S3-7dd3fc?style=flat-square&logo=amazons3&logoColor=0d1117) ![LAMP](https://img.shields.io/badge/LAMP-7dd3fc?style=flat-square&logo=linux&logoColor=0d1117) |
 | **Delivery** | ![Scrum](https://img.shields.io/badge/Scrum_Ceremonies-7dd3fc?style=flat-square&logo=jira&logoColor=0d1117) ![XF](https://img.shields.io/badge/Cross--functional_with_QA_%C2%B7_BAs_%C2%B7_DevOps-7dd3fc?style=flat-square&labelColor=0d1117) |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 📜 Certifications
 
 - ✅ BCS (British Computer Society) Professional Graduate
@@ -77,9 +62,6 @@ Senior Full Stack PHP Developer with 17+ years architecting and delivering scala
 - ✅ Sun Certified Java Programmer Training Program
 - ✅ Database Management Systems — Oracle 8i
 - ✅ Data Communication & Computer Networking — University of Colombo
-
-</td>
-<td width="50%" valign="top">
 
 ### 🏆 Awards
 
@@ -92,17 +74,13 @@ Senior Full Stack PHP Developer with 17+ years architecting and delivering scala
   - Yoti right-to-work checks
   - Automated UK tax & NI calculations
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 Featured Projects
 
 ### AnyVacancy
 
-[![AnyVacancy](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=anyvacancy&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/anyvacancy)
+[![AnyVacancy](https://github-readme-stats.vercel.app/api/pin/?username=ratnakanth&repo=anyvacancy&show_owner=true&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/ratnakanth/anyvacancy)
 
 Connecting businesses with qualified local shift workers instantly. Built-in DBS validation, Yoti right-to-work checks, and fully automated UK tax / National Insurance calculations.
 
@@ -177,14 +155,14 @@ Connecting businesses with qualified local shift workers instantly. Built-in DBS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnakanth&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakanth&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnakanth&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakanth&layout=compact&langs_count=8&cache_seconds=86400&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ratnakanth&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ratnakanth&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ratnakanth&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnakanth&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=7dd3fc&point=7dd3fc&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnakanth&bg_color=0d1117&color=c9d1d9&line=7dd3fc&point=7dd3fc&area=true&area_color=7dd3fc&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
